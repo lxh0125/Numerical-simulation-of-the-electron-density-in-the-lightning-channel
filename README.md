@@ -1,0 +1,1 @@
+This data set contains the calculation results of electron density, temperature and electromagnetic wave reflection time, with suffixes indicating different conditions and time periods. Since the original data is too large, the electron density and temperature are extracted at a ratio of 1:100 to form the final published results.
